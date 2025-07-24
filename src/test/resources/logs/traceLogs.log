@@ -1,0 +1,51 @@
+22:35:18.024 INFO  AUTOMATION - Suite iniciada: Surefire suite
+22:35:18.085 DEBUG AUTOMATION - Iniciando el driver
+22:35:19.302 DEBUG AUTOMATION - maxixmizando la pantalla
+22:35:19.328 DEBUG AUTOMATION - borrando las coockies
+22:35:19.399 INFO  AUTOMATION - Comenzando Test: accederMercadoTest
+22:35:22.132 DEBUG AUTOMATION - Tomando evidencias para el reporte de Allure
+22:35:22.158 INFO  AUTOMATION - Test exitoso: accederMercadoTest
+22:35:22.162 DEBUG AUTOMATION - Matando el driver
+22:35:22.286 DEBUG AUTOMATION - Iniciando el driver
+22:35:23.057 DEBUG AUTOMATION - maxixmizando la pantalla
+22:35:23.090 DEBUG AUTOMATION - borrando las coockies
+22:35:23.095 INFO  AUTOMATION - Comenzando Test: buscarMercadoTest
+22:35:34.065 DEBUG AUTOMATION - Tomando evidencias para el reporte de Allure
+22:35:34.067 INFO  AUTOMATION - Test exitoso: buscarMercadoTest
+22:35:34.067 DEBUG AUTOMATION - Matando el driver
+22:35:34.328 DEBUG AUTOMATION - Iniciando el driver
+22:35:35.107 DEBUG AUTOMATION - maxixmizando la pantalla
+22:35:35.136 DEBUG AUTOMATION - borrando las coockies
+22:35:35.142 INFO  AUTOMATION - Comenzando Test: filtrarContenidoTest
+22:35:48.477 DEBUG AUTOMATION - Tomando evidencias para el reporte de Allure
+22:35:48.478 INFO  AUTOMATION - Test exitoso: filtrarContenidoTest
+22:35:48.479 DEBUG AUTOMATION - Matando el driver
+22:35:48.629 DEBUG AUTOMATION - Iniciando el driver
+22:35:49.459 DEBUG AUTOMATION - maxixmizando la pantalla
+22:35:49.493 DEBUG AUTOMATION - borrando las coockies
+22:35:49.499 INFO  AUTOMATION - Comenzando Test: filtroLocationTest
+22:36:10.567 DEBUG AUTOMATION - Tomando evidencias para el reporte de Allure
+22:36:10.568 INFO  AUTOMATION - Test exitoso: filtroLocationTest
+22:36:10.569 DEBUG AUTOMATION - Matando el driver
+22:36:10.707 DEBUG AUTOMATION - Iniciando el driver
+22:36:11.461 DEBUG AUTOMATION - maxixmizando la pantalla
+22:36:11.494 DEBUG AUTOMATION - borrando las coockies
+22:36:11.498 INFO  AUTOMATION - Comenzando Test: filtroMenorPrecioTest
+22:36:33.184 DEBUG AUTOMATION - Tomando evidencias para el reporte de Allure
+22:36:33.185 INFO  AUTOMATION - Test exitoso: filtroMenorPrecioTest
+22:36:33.186 DEBUG AUTOMATION - Matando el driver
+22:36:33.328 DEBUG AUTOMATION - Iniciando el driver
+22:36:34.091 DEBUG AUTOMATION - maxixmizando la pantalla
+22:36:34.123 DEBUG AUTOMATION - borrando las coockies
+22:36:34.131 INFO  AUTOMATION - Comenzando Test: nombreProductosdTest
+22:36:59.342 DEBUG AUTOMATION - Tomando evidencias para el reporte de Allure
+22:36:59.343 INFO  AUTOMATION - Test exitoso: nombreProductosdTest
+22:36:59.343 DEBUG AUTOMATION - Matando el driver
+22:36:59.485 DEBUG AUTOMATION - Iniciando el driver
+22:37:00.326 DEBUG AUTOMATION - maxixmizando la pantalla
+22:37:00.364 DEBUG AUTOMATION - borrando las coockies
+22:37:00.369 INFO  AUTOMATION - Comenzando Test: seleccionarMexicoTest
+22:37:08.498 DEBUG AUTOMATION - Tomando evidencias para el reporte de Allure
+22:37:08.499 INFO  AUTOMATION - Test exitoso: seleccionarMexicoTest
+22:37:08.500 DEBUG AUTOMATION - Matando el driver
+22:37:08.709 INFO  AUTOMATION - Suite finalizada: Surefire suite

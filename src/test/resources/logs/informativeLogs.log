@@ -1,0 +1,16 @@
+22:35:18.024 INFO  AUTOMATION - Suite iniciada: Surefire suite
+22:35:19.399 INFO  AUTOMATION - Comenzando Test: accederMercadoTest
+22:35:22.158 INFO  AUTOMATION - Test exitoso: accederMercadoTest
+22:35:23.095 INFO  AUTOMATION - Comenzando Test: buscarMercadoTest
+22:35:34.067 INFO  AUTOMATION - Test exitoso: buscarMercadoTest
+22:35:35.142 INFO  AUTOMATION - Comenzando Test: filtrarContenidoTest
+22:35:48.478 INFO  AUTOMATION - Test exitoso: filtrarContenidoTest
+22:35:49.499 INFO  AUTOMATION - Comenzando Test: filtroLocationTest
+22:36:10.568 INFO  AUTOMATION - Test exitoso: filtroLocationTest
+22:36:11.498 INFO  AUTOMATION - Comenzando Test: filtroMenorPrecioTest
+22:36:33.185 INFO  AUTOMATION - Test exitoso: filtroMenorPrecioTest
+22:36:34.131 INFO  AUTOMATION - Comenzando Test: nombreProductosdTest
+22:36:59.343 INFO  AUTOMATION - Test exitoso: nombreProductosdTest
+22:37:00.369 INFO  AUTOMATION - Comenzando Test: seleccionarMexicoTest
+22:37:08.499 INFO  AUTOMATION - Test exitoso: seleccionarMexicoTest
+22:37:08.709 INFO  AUTOMATION - Suite finalizada: Surefire suite
